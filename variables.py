@@ -1,3 +1,6 @@
 f=4+5
-print (f)
+
+a = 2*5
+c= f*a
+print (c)
 
